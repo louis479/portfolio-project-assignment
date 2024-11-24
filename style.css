@@ -64,3 +64,8 @@ body {
     margin: 5px 0;
     line-height: 1.6;
   }
+
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
