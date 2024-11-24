@@ -74,3 +74,13 @@ body {
     margin-bottom: 10px;
     font-size: 1.1em;
   }
+
+  footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
