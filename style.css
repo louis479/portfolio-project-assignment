@@ -69,3 +69,8 @@ body {
     list-style-type: square;
     padding-left: 20px;
   }
+
+  ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+  }
