@@ -16,35 +16,26 @@ My name is Louis Ngugi Kariuki.I am a passionate  IT Developer who specializing 
 
 ## Featured Projects
 
-### 1. **CSS Graffiti Override**
+### 1. Timezones Dashboard
 
-- **Description**: A project demonstrating advanced CSS techniques, including cleanup and styling overrides.
-- **Technologies Used**: HTML, CSS
-- **Highlights**:
-  - Created a structured and visually appealing web page.
-  - Implemented dynamic tests to ensure compliance with project requirements.
-  - Mastered CSS specificity and shadowing techniques.
-- [View Project](#)
+Description: A project showcasing the current time across multiple cities around the world, with real-time clock updates.
+Technologies Used: JavaScript, APIs, HTML, CSS
+Highlights:
+Integrated an API to display real-time data of timezones across various cities.
+Designed an intuitive interface that allows users to add and view timezones in a streamlined layout.
+Ensured accuracy and smooth updates of time displays with JavaScript.
 
-### 2. **Responsive Web Page Design**
+- [View Project](https://louis479.github.io/Timezones/)
 
-- **Description**: A project showcasing HTML and CSS skills to build a static, visually engaging web page.
-- **Technologies Used**: HTML, CSS
-- **Highlights**:
-  - Developed a clean and responsive layout.
-  - Focused on accessibility and usability.
-  - Optimized for various screen sizes.
-- [View Project](#)
+### 2. Responsive Restaurant Website
+Description: A fully responsive web page designed to showcase a restaurant’s services, with sections for the menu, location, and reviews.
+Technologies Used: HTML, CSS, JavaScript
+Highlights:
+Built a flexible layout that adjusts across different screen sizes.
+Integrated an embedded map for easy location finding.
+Focused on improving the user experience with accessible navigation and fast loading times.
 
-### 3. **API Integration Dashboard**
-
-- **Description**: Developed a dashboard that integrates with multiple APIs to display real-time data.
-- **Technologies Used**: JavaScript, Node.js, Express, REST APIs
-- **Highlights**:
-  - Designed a clean and user-friendly interface.
-  - Implemented robust backend logic for data aggregation.
-  - Ensured cross-browser compatibility.
-- [View Repository](#)
+ [View Repository](https://louis479.github.io/Phase-1-Final-project/)
 
 ---
 
